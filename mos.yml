@@ -1,0 +1,14 @@
+author: mongoose-os
+description: CA Bundle
+type: lib
+version: 1.0
+
+sources:
+  - src
+filesystem:
+  - fs
+
+tags:
+  - ca
+
+skeleton_version: 2017-06-16
