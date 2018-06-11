@@ -3,8 +3,6 @@ description: CA Bundle
 type: lib
 version: 1.0
 
-sources:
-  - src
 filesystem:
   - fs
 
