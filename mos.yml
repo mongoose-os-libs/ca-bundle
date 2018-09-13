@@ -8,6 +8,7 @@ filesystem:
 
 tags:
   - security
+  - docs:net:Common CA certificates
 
 manifest_version: 2017-09-29
 
