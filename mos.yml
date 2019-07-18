@@ -4,7 +4,7 @@ type: lib
 version: 1.0
 
 config_schema:
-  - ["mqtt.ssl_ca_cert", "ca.pem]
+  - ["mqtt.ssl_ca_cert", "ca.pem"]
 
 filesystem:
   - fs
